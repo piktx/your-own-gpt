@@ -4,7 +4,7 @@
 ![Chainlit](https://img.shields.io/badge/Chainlit-4A154B?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-00ADD8?style=for-the-badge)
 
-**Two powerful chat implementations** using cutting-edge AI models with unique capabilities:
+**Two powerful chat implementations** using Llama 3.2 vision model with unique capabilities:
 
 1. **MiniGPT** - Web-based ChatGPT clone with reasoning visualization 🔍
 2. **LocalGPT** - Multimodal vision-capable assistant with chain-of-thought 🖼️
