@@ -36,7 +36,7 @@
 ```bash
 # Clone repository
 git clone https://github.com/piktx/your-own-gpt.git
-cd ai-chat-platform
+cd your-own-gpt
 
 # Install dependencies
 pip install -r requirements.txt
